@@ -1,0 +1,1 @@
+# Intelligent-fault-diagnosis-on-CW-motor-bearing-data
